@@ -29,7 +29,7 @@ int main()
 /******************************************************************************
 
 Array Operations - Traversal, Insertion in unsorted array
-time complexity = O(n);
+time complexity = O(1);
 
 *******************************************************************************/
 
